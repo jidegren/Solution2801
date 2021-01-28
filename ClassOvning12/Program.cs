@@ -130,6 +130,7 @@ namespace ClassOvning12
                 }
             }
         }
+        //Test
 
         private static void AddPerson(string firstName, string phoneNumber, string email, string workAdress, string homeAdress)
         {
